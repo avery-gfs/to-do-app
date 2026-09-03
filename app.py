@@ -1,7 +1,11 @@
+# Avery's awesome to do app
+
 import os
 
 done = []
 undone = []
+
+# Loop forever
 
 while True:
   os.system("clear")
@@ -11,7 +15,7 @@ while True:
     print("[ ]", task)
 
   for task in done:
-    print("[✔️]", task)
+    print("[x]", task)
 
   task = input("\ntask name: ")
 
