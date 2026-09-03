@@ -11,7 +11,7 @@ while True:
     print("[ ]", task)
 
   for task in done:
-    print("[x]", task)
+    print("[✔️]", task)
 
   task = input("\ntask name: ")
 
