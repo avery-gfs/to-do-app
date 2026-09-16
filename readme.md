@@ -1,3 +1,13 @@
-Avery's awesome to do app!
+# Avery's awesome to do app!
 
 Keep track of tasks, mark 'em done. Stay productive!!!
+
+## Contributors
+
+- Me
+- Myself
+- I
+
+```py
+print("Hello world!")
+```
